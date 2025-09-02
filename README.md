@@ -32,9 +32,6 @@ O sistema permite cadastrar clientes, criar contas, realizar depósitos, saques,
 ┣ 📜 log.txt # Arquivo de logs das transações
 ┗ 📜 README.md # Documentação do projeto
 
-yaml
-Copiar código
-
 
 ---
 
