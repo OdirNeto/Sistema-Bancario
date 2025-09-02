@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Este projeto é uma **simulação de sistema bancário em Python**, desenvolvido com foco em **orientação a objetos, boas práticas de programação e uso de padrões de projeto**.  
+Este é um projeto desenvolvido para a conclusão do Bootcamp Santander - Back-end with Python. O projeto é uma **simulação de sistema bancário em Python**, desenvolvido com foco em **orientação a objetos, boas práticas de programação e uso de padrões de projeto**.  
 O sistema permite cadastrar clientes, criar contas, realizar depósitos, saques, emitir extratos e manter histórico de transações com persistência em log.
 
 
