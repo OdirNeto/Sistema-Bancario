@@ -54,18 +54,24 @@ O sistema permite cadastrar clientes, criar contas, realizar depósitos, saques,
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/sistema-bancario.git
+
 Acesse a pasta do projeto:
 
-bash
-Copiar código
-cd sistema-bancario
+   ```bash
+  Copiar código
+  cd sistema-bancario
+  ```
+
 Execute o projeto:
 
-bash
-Copiar código
-python main.py
-📖 Menu de Operações
-csharp
+  ```bash
+  Copiar código
+  python main.py
+  ```
+
+📖 Menu de Operações:
+
+  ```csharp
 Copiar código
 =============== MENU ================
 [d] Depositar
@@ -75,12 +81,14 @@ Copiar código
 [lc] Listar contas
 [nu] Novo usuário
 [q] Sair
+```
 
 
 
 
 
 🔮 Melhorias Futuras
+
  Persistência de dados em banco de dados (SQLite ou PostgreSQL)
 
  Interface gráfica (Tkinter ou Flask/Django Web)
@@ -92,13 +100,14 @@ Copiar código
 
 
 
-
 📜 Licença
-Este projeto está licenciado sob a MIT License.
+
+Este projeto está licenciado sob a MIT License
+.
 Sinta-se livre para usar, estudar e contribuir!
 
 
 
 
-
-👨‍💻 Desenvolvido por Odir Neto 🚀
+👨‍💻 Desenvolvido por Odir Neto
+ 🚀
